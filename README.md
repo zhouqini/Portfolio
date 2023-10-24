@@ -1,9 +1,6 @@
 # Portfolio
 Data Analytics and Science Portfolio
 
-Workflow Refresher = https://www.youtube.com/watch?v=pKvWD0f18Pc
-Pipeline Refresher = https://www.youtube.com/watch?v=h1BnRBzYjYY
-Excel Refresher = https://www.youtube.com/watch?v=m13o5aqeCbM
-Tableau Refresher = https://www.youtube.com/results?search_query=tableau+basics
-SQL Refresher = https://www.youtube.com/watch?v=0rB_memC-dA
-Cisco Data Analytics Essentials should also cover as a refresher
+DSDP-Challenge Group 2 - was a group project that was done during the UnionBank Excellerator Data Science Challange. Which, include a prediction of the customer spending pattern and to find a way to target ads to certain customers.
+Video Game Sales - a simple data analytics project that showcases the top selling games, publishers and systems through the dashboard.
+Walking Data - my first data analytics task, found the pattern in which days have higher steps, and calorie burned count. 
